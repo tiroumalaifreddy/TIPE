@@ -7,7 +7,6 @@ Created on Mon Apr  9 16:25:03 2018
 
 import numpy as np
 import matplotlib.pyplot as plt
-import time
 def u_suivant(u, c, dx, dt, nb):
     l=[u]
     t=0
